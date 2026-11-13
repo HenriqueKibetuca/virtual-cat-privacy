@@ -1,0 +1,308 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Política de Privacidade do VIRTUAL CAT, sistema de gestão de catequese virtual e acompanhamento de catecúmenos.">
+  <meta name="theme-color" content="#142D4E">
+  <title>Política de Privacidade | VIRTUAL CAT</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f3f6fa;
+      color: #263548;
+      line-height: 1.75;
+    }
+
+    header {
+      background: linear-gradient(135deg, #142d4e, #245b80);
+      color: white;
+      padding: 48px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+      letter-spacing: 2px;
+    }
+
+    header p {
+      margin: 10px 0 0;
+      color: #dce8f3;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 35px;
+      background: white;
+      border-radius: 14px;
+      box-shadow: 0 5px 25px rgba(0,0,0,.06);
+    }
+
+    h2 {
+      color: #173d61;
+      font-size: 20px;
+      margin-top: 32px;
+      border-bottom: 1px solid #e5ebf1;
+      padding-bottom: 8px;
+    }
+
+    h3 {
+      color: #245b80;
+      font-size: 16px;
+    }
+
+    a { color: #1768a5; }
+
+    .updated {
+      background: #edf4fa;
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .contact {
+      background: #edf4fa;
+      padding: 20px;
+      border-radius: 10px;
+      overflow-wrap: anywhere;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px 15px;
+      color: #718096;
+      font-size: 13px;
+    }
+
+    @media(max-width:600px) {
+      main { margin: 15px; padding: 22px 18px; }
+      header h1 { font-size: 26px; }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>VIRTUAL CAT</h1>
+  <p>Sistema de Gestão de Catequese Virtual</p>
+  <p>Política de Privacidade</p>
+</header>
+
+<main>
+
+  <div class="updated">
+    <strong>Última atualização:</strong> 13 de novembro de 2026
+  </div>
+
+  <h2>1. Apresentação</h2>
+  <p>
+    O VIRTUAL CAT é um sistema de catequese virtual desenvolvido
+    para apoiar a organização, administração e gestão das atividades
+    catequéticas, permitindo o registo e acompanhamento dos catecúmenos,
+    a gestão de turmas e a organização da formação catequética.
+  </p>
+  <p>
+    A aplicação foi concebida para privilegiar o funcionamento offline,
+    permitindo que os dados sejam armazenados localmente no dispositivo.
+  </p>
+
+  <h2>2. Responsável pela aplicação</h2>
+  <p><strong>Responsável:</strong> HENRIQUES AGOSTINHO KIBETUCA</p>
+  <p><strong>Aplicação:</strong> VIRTUAL CAT</p>
+  <p><strong>Contacto:</strong>
+    <a href="mailto:henriquekibetuca@gmail.com">
+      henriquekibetuca@gmail.com
+    </a>
+  </p>
+
+  <h2>3. Informações que podem ser registadas</h2>
+  <p>
+    Dependendo das funcionalidades utilizadas e das informações
+    introduzidas pelos operadores, o sistema poderá armazenar:
+  </p>
+  <ul>
+    <li>Nome e identificação dos catecúmenos;</li>
+    <li>Idade ou data de nascimento, quando aplicável;</li>
+    <li>Turma, grupo e etapa de formação;</li>
+    <li>Contactos dos catecúmenos ou encarregados de educação;</li>
+    <li>Registos de frequência e assiduidade;</li>
+    <li>Participação em atividades catequéticas;</li>
+    <li>Progresso e avaliações da formação;</li>
+    <li>Observações administrativas e pedagógicas;</li>
+    <li>Informações necessárias à organização das turmas e atividades.</li>
+  </ul>
+  <p>
+    Apenas devem ser introduzidas informações adequadas e necessárias
+    às finalidades legítimas da gestão catequética.
+  </p>
+
+  <h2>4. Informações de natureza religiosa</h2>
+  <p>
+    A participação na catequese pode revelar informações relacionadas
+    com convicções ou atividades religiosas. Estas informações merecem
+    proteção reforçada e devem ser tratadas com confidencialidade.
+  </p>
+  <p>
+    Os registos não devem ser utilizados para discriminação,
+    publicidade direcionada ou finalidades incompatíveis com a gestão
+    catequética.
+  </p>
+
+  <h2>5. Finalidades da utilização dos dados</h2>
+  <p>As informações destinam-se a apoiar:</p>
+  <ul>
+    <li>O registo e organização dos catecúmenos;</li>
+    <li>A gestão de turmas e grupos;</li>
+    <li>O acompanhamento da formação catequética;</li>
+    <li>O controlo de frequência e assiduidade;</li>
+    <li>A organização de encontros e atividades;</li>
+    <li>A gestão administrativa e pedagógica da catequese.</li>
+  </ul>
+
+  <h2>6. Armazenamento e funcionamento offline</h2>
+  <p>
+    Na configuração atualmente declarada, o VIRTUAL CAT utiliza
+    armazenamento local no dispositivo.
+  </p>
+  <ul>
+    <li>Não exige criação de conta ou autenticação online;</li>
+    <li>Não utiliza sincronização de dados com o Supabase;</li>
+    <li>Não mantém uma base de dados centralizada na nuvem;</li>
+    <li>Não envia automaticamente os registos locais para o responsável;</li>
+    <li>Permite a utilização das funcionalidades offline previstas na aplicação.</li>
+  </ul>
+  <p>
+    A disponibilidade de funcionalidades específicas poderá depender
+    da configuração e da versão instalada.
+  </p>
+
+  <h2>7. Confidencialidade e segurança</h2>
+  <p>
+    Os registos dos catecúmenos devem ser consultados apenas por pessoas
+    autorizadas para as atividades de gestão catequética.
+  </p>
+  <p>
+    Como a configuração declarada não utiliza autenticação centralizada,
+    a proteção do dispositivo é especialmente importante. Recomenda-se
+    utilizar bloqueio de ecrã, limitar o acesso ao equipamento e evitar
+    a partilha de relatórios com pessoas não autorizadas.
+  </p>
+  <p>
+    Não é possível garantir segurança absoluta contra roubo,
+    avarias, malware, acessos indevidos ou perda do dispositivo.
+  </p>
+
+  <h2>8. Proteção de crianças e adolescentes</h2>
+  <p>
+    O VIRTUAL CAT poderá ser utilizado para gerir informações de
+    catecúmenos menores de idade. O tratamento dessas informações
+    exige cuidados especiais.
+  </p>
+  <p>
+    Sempre que legalmente necessário, devem ser obtidas as autorizações
+    dos pais, encarregados de educação ou representantes legais.
+    As informações dos menores não devem ser divulgadas publicamente
+    nem utilizadas para finalidades alheias à gestão catequética.
+  </p>
+
+  <h2>9. Partilha com terceiros</h2>
+  <p>
+    Na configuração declarada, não são utilizados serviços externos
+    de publicidade, análise comportamental ou sincronização de dados.
+    O responsável não comercializa os registos locais dos catecúmenos.
+  </p>
+  <p>
+    A eventual exportação ou partilha de relatórios por quem utiliza
+    a aplicação deve respeitar a confidencialidade e a legislação
+    aplicável.
+  </p>
+
+  <h2>10. Conservação e eliminação</h2>
+  <p>
+    Os dados permanecem no dispositivo enquanto forem mantidos pela
+    aplicação ou pelo utilizador.
+  </p>
+  <p>
+    A eliminação poderá ser efetuada através das funcionalidades da
+    aplicação ou das definições de armazenamento do Android.
+    A desinstalação poderá eliminar os dados, dependendo das
+    configurações de cópia de segurança do dispositivo.
+  </p>
+  <p>
+    Antes de eliminar registos, devem ser consideradas eventuais
+    obrigações legítimas de conservação.
+  </p>
+
+  <h2>11. Direitos dos titulares dos dados</h2>
+  <p>
+    Os titulares dos dados ou os seus representantes legais, quando
+    aplicável, poderão solicitar esclarecimentos e exercer os direitos
+    previstos na legislação aplicável, incluindo acesso, retificação,
+    eliminação e oposição ao tratamento, nos casos legalmente previstos.
+  </p>
+  <p>
+    Como os dados são armazenados localmente, a consulta e eliminação
+    deverão ser realizadas através dos mecanismos disponíveis na
+    aplicação ou no dispositivo.
+  </p>
+
+  <h2>12. Permissões do dispositivo</h2>
+  <p>
+    A aplicação deverá solicitar apenas as permissões Android
+    necessárias ao funcionamento das suas funcionalidades.
+    O utilizador poderá consultar e gerir essas permissões nas
+    definições do dispositivo.
+  </p>
+
+  <h2>13. Alterações à política</h2>
+  <p>
+    Esta política poderá ser atualizada quando existirem alterações
+    nas funcionalidades, na arquitetura técnica ou nas práticas de
+    tratamento de informações do VIRTUAL CAT. A data da última
+    atualização será indicada nesta página.
+  </p>
+
+  <h2>14. Contacto</h2>
+  <div class="contact">
+    <p><strong>Responsável:</strong><br>
+      HENRIQUES AGOSTINHO KIBETUCA
+    </p>
+    <p><strong>Aplicação:</strong><br>
+      VIRTUAL CAT — Sistema de Gestão de Catequese Virtual
+    </p>
+    <p><strong>E-mail:</strong><br>
+      <a href="mailto:henriquekibetuca@gmail.com">
+        henriquekibetuca@gmail.com
+      </a>
+    </p>
+  </div>
+
+  <h2>15. Disposições finais</h2>
+  <p>
+    A utilização do VIRTUAL CAT deve respeitar os princípios de
+    confidencialidade, responsabilidade, transparência e proteção
+    das informações pessoais.
+  </p>
+  <p>
+    Esta política deve ser interpretada em conformidade com a
+    legislação aplicável em matéria de proteção de dados pessoais.
+  </p>
+
+</main>
+
+<footer>
+  VIRTUAL CAT — Sistema de Gestão de Catequese Virtual<br>
+  © 2026 — Todos os direitos reservados.<br>
+  HENRIQUES AGOSTINHO KIBETUCA
+</footer>
+
+</body>
+</html>
